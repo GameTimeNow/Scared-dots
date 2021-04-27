@@ -11,7 +11,7 @@ function preload(){
 }
 
 function setup(){
-	createCanvas(displayWidth, displayHeight);
+	createCanvas(800, 300);
 	background(51);
 	textSize(fsize);
 	var tWidth = textWidth(t);
