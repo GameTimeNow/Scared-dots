@@ -1,6 +1,6 @@
 var font;
 var vehicles = [];
-var t = "Games;
+var t = "Games";
 var fsize = 192;
 var r = 8;
 var sf = .1;
