@@ -4,7 +4,7 @@ var t = prompt("TEXT:");
 var fsize = 192;
 var r = 8;
 var sf = .1;
-var rainbow = false;
+var rainbow = true;
 
 function preload(){
 	font = loadFont("AvenirNextLTPro-Demi.otf");
