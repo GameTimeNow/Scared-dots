@@ -12,7 +12,7 @@ function preload(){
 
 function setup(){
 	createCanvas(800, 300);
-	background(31);
+	background('red');
 	textSize(fsize);
 	var tWidth = textWidth(t);
 	while(tWidth>width-20){
