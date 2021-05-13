@@ -12,7 +12,7 @@ function preload(){
 
 function setup(){
 	createCanvas(800, 300);
-	background('red');
+	background(30, 31, 32);
 	textSize(fsize);
 	var tWidth = textWidth(t);
 	while(tWidth>width-20){
@@ -33,7 +33,7 @@ function setup(){
 
 function draw(){
 	colorMode(RGB,255,255,255);
-	background(51);
+	background(30, 31, 32);
 	for (var i = 0; i < vehicles.length; i++){
 		var v = vehicles[i];
 		v.behaviours();
