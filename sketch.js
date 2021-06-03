@@ -1,6 +1,6 @@
 var font;
 var vehicles = [];
-var t = "LAST WEEK OF SCHOOL :)";
+var t = "GAMES";
 var fsize = 192;
 var r = 8;
 var sf = .1;
