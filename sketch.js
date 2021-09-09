@@ -1,8 +1,8 @@
 var font;
 var vehicles = [];
 var t = "GAMES";
-var fsize = 1920;
-var r = 8;
+var fsize = 192;
+var r = 80;
 var sf = .1;
 var rainbow = true;
 
